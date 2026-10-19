@@ -27,20 +27,54 @@ The main navigation connects **Home**, **Trips**, and **Profile**. Each trip ope
 
 ## App preview
 
-Roamly uses warm colors, rounded cards, custom typography, and travel-themed illustrations.
+The dashboard, trip, budget, and itinerary previews below were captured from **Flutter web in a mobile-sized layout**, using sample trip and expense data.
+
+<table>
+  <tr>
+    <th>Home dashboard</th>
+    <th>Your trips</th>
+    <th>Trip details</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/readme/roamly_dashboard_web.png" alt="Roamly home dashboard with sample trip totals, group budgets, personal spending, and recent trips" width="230"></td>
+    <td align="center"><img src="assets/readme/roamly_trips_web.png" alt="Roamly trip list showing sample Baguio and Pampanga trips" width="230"></td>
+    <td align="center"><img src="assets/readme/roamly_trip_details_web.png" alt="Roamly trip details with destination, dates, budgets, member count, and planning options" width="230"></td>
+  </tr>
+  <tr>
+    <th>Budget overview</th>
+    <th>Trip itinerary</th>
+    <th>Expense details</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/readme/roamly_budget_web.png" alt="Roamly budget overview showing group costs, estimated member share, and personal budget" width="230"></td>
+    <td align="center"><img src="assets/readme/roamly_itinerary_web.png" alt="Roamly itinerary with sample activities, locations, dates, and times" width="230"></td>
+    <td align="center"><img src="assets/readme/roamly_expense_form_web.png" alt="Roamly expense form with a sample amount, category, expense type, date, and notes" width="230"></td>
+  </tr>
+</table>
+
+<details>
+<summary>View account screens and planning forms</summary>
 
 <table>
   <tr>
     <th>Sign in</th>
     <th>Create an account</th>
-    <th>Trip cover selection</th>
   </tr>
   <tr>
     <td align="center"><img src="assets/readme/roamly_login.png" alt="Roamly sign-in screen with empty fields" width="230"></td>
     <td align="center"><img src="assets/readme/roamly_register.png" alt="Roamly registration screen with empty fields" width="230"></td>
-    <td align="center"><img src="assets/readme/roamly_create_trip.jpg" alt="Roamly trip creation screen showing illustrated cover choices" width="230"></td>
+  </tr>
+  <tr>
+    <th>Edit a trip</th>
+    <th>Edit an activity</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/readme/roamly_trip_form_web.png" alt="Roamly trip form with a sample destination, travel dates, budgets, and member count" width="230"></td>
+    <td align="center"><img src="assets/readme/roamly_activity_form_web.png" alt="Roamly activity form with a sample title, location, time, date, and notes" width="230"></td>
   </tr>
 </table>
+
+</details>
 
 ## Built with
 
